@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-Trainer by day 🌇, Developer/Programmer by night 🌆
+Trainer by day 🌇, Developer/Programmer by night 🌆 . Passionate about computing , electronics and video game content.
 
-Passionate about computing , electronics and video game content.
 Know as "Jackobo Le Chocobo" or "Akina Usagi" according to some contents.
 
 <!--
