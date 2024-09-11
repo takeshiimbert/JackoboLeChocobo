@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/JackoboLeChocobo/JackoboLeChocobo/blob/main/banner.jpg?raw=true)
 
-Trainer by day 🌇, Developer/Programmer by night 🌆 . Passionate about computing , electronics and video game content.
+Trainer by day 🌇, Developer/Programmer by night 🌆 . Passionate about computing , electronics and video game content. I develop also Fenikkusu, a portable Linux OS that uses Debian as main core.
 
 Know as "Jackobo Le Chocobo" and "Akina Usagi" according to some contents.
 
