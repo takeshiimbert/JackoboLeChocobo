@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![alt text](https://github.com/JackoboLeChocobo/JackoboLeChocobo/blob/main/banner.jpg?raw=true)
+
 Trainer by day 🌇, Developer/Programmer by night 🌆 . Passionate about computing , electronics and video game content.
 
 Know as "Jackobo Le Chocobo" and "Akina Usagi" according to some contents.
