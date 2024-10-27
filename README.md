@@ -2,9 +2,9 @@
 
 ![alt text](https://github.com/JackoboLeChocobo/JackoboLeChocobo/blob/main/banner.jpg?raw=true)
 
-Trainer by day 🌇, Developer/Programmer by night 🌆 . Passionate about computing , electronics and video game content. I develop also "Usagi OS", a portable Linux OS that uses Debian as main core.
+Formateur le jour 🌇, Développeur/Programmeur la nuit 🌆 . Passionné par l'informatique, l'électronique et les contenus vidéo-ludique. Je développe également "Usagi OS", un système Linux portable qui utilise Debian comme base.
 
-Know as "Jackobo Le Chocobo" and "Akina Usagi" according to some contents.
+Connu sous le pseudo de "Jackobo Le Chocobo" et "Akina Usagi" selon le projet / contenu.
 
 <!--
 **JackoboLeChocobo/JackoboLeChocobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
