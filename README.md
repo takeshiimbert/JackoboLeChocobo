@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-![alt text](https://github.com/JackoboLeChocobo/JackoboLeChocobo/blob/main/banner.jpg?raw=true)
+Trainer by day 🌇, Developer/Programmer by night 🌆. Passionate about computing, electronics and video game content. I develop applications mainly for Windows and Linux.
 
-Formateur le jour 🌇, Développeur/Programmeur la nuit 🌆 . Passionné par l'informatique, l'électronique et les contenus vidéoludiques. Je développe également "Usagi OS", un système Linux portable qui utilise Debian comme base.
-
-Connu sous le pseudo de "Jackobo Le Chocobo" et "Akina Usagi" selon le projet / contenu.
+Known as "Jackobo Le Chocobo" and "Tatsuki Imbert" depending on the project/content.
 
 <!--
 **JackoboLeChocobo/JackoboLeChocobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
