@@ -2,7 +2,7 @@
 
 Trainer by day 🌇, Developer/Programmer by night 🌆. Passionate about computing, electronics and video game content. I develop applications mainly for Windows and Linux.
 
-Known as "Jackobo Le Chocobo" and "Tatsuki Imbert" depending on the project/content.
+Known as "Jackobo Le Chocobo" and "Takeshi Imbert" depending on the project/content.
 
 <!--
 **JackoboLeChocobo/JackoboLeChocobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
